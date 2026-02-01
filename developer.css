@@ -1,0 +1,38 @@
+ body {
+      background-color: #cddbe9;
+    }
+.team-section {
+      padding: 60px 0;
+    }
+    .team-card {
+      transition: transform 0.3s;
+      background-image: linear-gradient(to bottom,rgb(237, 173, 173),rgb(166, 166, 233),navy);
+       
+    }
+    .team-card:hover {
+      transform: translateY(-10px);
+      background-color: rgb(183, 185, 183);
+    }
+    img{
+        border-radius: 100px;
+    }
+    .card-title:hover{
+      color:green;
+      font-size: 25px;
+      font-weight: 6600;
+    }
+    .card-text:hover{
+      color:orangered;
+      font-size: 19px;
+      font-weight: 6600;
+    }
+    .card-title{
+      color:white;
+      font-size: 25px;
+      font-weight: 6600;
+    }
+    .card-text{
+      color:white;
+      font-size: 19px;
+      font-weight: 6600;
+    }

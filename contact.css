@@ -1,0 +1,16 @@
+.map {
+        background-image: url('../../content/img/mp.jpg');
+        background-repeat:no-repeat;
+    }
+    .icon-hover {
+        font-size: 50px;
+        color: #ffffff;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+
+        .icon-hover:hover {
+            color: #ffffff; /* Bootstrap primary blue */
+            transform: scale(1.2) rotate(5deg);
+            font-size: 60px;
+        }

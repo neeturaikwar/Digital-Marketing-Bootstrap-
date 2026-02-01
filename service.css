@@ -1,0 +1,84 @@
+.card{
+    border-radius: 20px;
+    box-shadow: 2px 2px 7px 0px rgba(0, 0, 0, 0.618);
+    transition: 1s ease;
+}
+.heading{
+    background-color: #4d2d8cf7;
+    border-radius: 20px;
+}
+.heading:hover{
+    background-color: #4d2d8cd5;
+}
+.cardImg{
+    border-radius: 20px 20px 0px 0px;
+}
+
+.aboutservice{
+
+   border-left: 2px solid blue;
+    background-color: rgba(241, 236, 236, 0.31);
+    border-radius: 20px;
+    text-align: justify;
+    background-repeat:no-repeat;
+    color: rgb(33, 30, 30);
+    text-shadow: 5px solid black;
+    
+    
+}
+
+.para{
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    text-align: justify;
+    padding: 20px;
+}
+.cards:hover{
+    margin-top: -20px; 
+    background-color: beige;
+    box-shadow: 2px 2px 10px 2px rgba(118, 187, 234, 0.816);
+    
+
+}
+.cardbtn{
+    transition: 1s ease;
+    border: none;
+
+}
+.cardbtn:hover{
+    background-color: rgba(75, 80, 235, 0.781);
+
+}
+.box{
+    color: dark;
+}
+.box:hover{
+    background-color: rgba(205, 205, 217, 0.656);
+    border-radius: 8px;
+    transition: 2s ease;
+}
+
+.feedback{
+    background-color: #F5F5F5;
+}
+
+
+.feedform{
+     box-shadow: 1px 1px 6px 0px black;
+     margin-top: 30px;
+     margin-bottom: 20px;
+     padding: 20px;
+     border-radius: 15px 70px 10px 40px;
+     transition: 1s ease;
+
+}
+.feedform:hover{
+    background-color: rgba(123, 123, 167, 0.496);
+}
+.feedImg
+{
+    
+    margin-top: 100px;
+    border-radius: 40px;
+}

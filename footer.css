@@ -1,0 +1,26 @@
+ footer {
+      background: #343a40;
+      color: #fff;
+    }
+    .footer-top {
+      padding: 40px 0;
+    }
+    .footer-bottom {
+      background: #23272b;
+      padding: 15px 0;
+      text-align: center;
+    }
+    .footer-top h5 {
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+    .footer-links a {
+      display: block;
+      color: #ddd;
+      text-decoration: none;
+      margin-bottom: 8px;
+      transition: 0.3s;
+    }
+    .footer-links a:hover {
+      color: #fff;
+    }
